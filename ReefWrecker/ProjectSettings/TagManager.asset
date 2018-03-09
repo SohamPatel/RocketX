@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Background
+  - Environment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1342363055
+    locked: 0
+  - name: Ground
+    uniqueID: 2116029945
+    locked: 0
+  - name: Environment
+    uniqueID: 274201645
+    locked: 0
+  - name: Enemy
+    uniqueID: 891230847
+    locked: 0
+  - name: Player
+    uniqueID: 375284015
+    locked: 0
+  - name: PauseOverlay
+    uniqueID: 2582482891
+    locked: 0
+  - name: UI
+    uniqueID: 1056848507
+    locked: 0
